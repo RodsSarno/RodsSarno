@@ -19,12 +19,19 @@ I'm a computer engineering student who enjoys learning about programming, softwa
 
 ---
 
+## 📈 GitHub Stats
+![RodsSarno's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodsSarno&show_icons=true&theme=radical)
+
+---
+
 ## 🤓 Applications & languages which I know well
 - Python 
 - C & C++
 - GitHub
 - VSCode
 - Arduino IDE
+
+---
 
 ## 📝 Currently learning
 - Java 
@@ -33,6 +40,3 @@ I'm a computer engineering student who enjoys learning about programming, softwa
 - Embebbed systems (ESP32, Arduino)
 
 ---
-
-## 📈 GitHub Stats
-![RodsSarno's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodsSarno&show_icons=true&theme=radical)
