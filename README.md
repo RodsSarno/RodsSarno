@@ -13,7 +13,13 @@ I'm a computer engineering student who enjoys learning about programming, softwa
 
 ---
 
-## 🚀 Applications & languages which I know well
+## 📊 Most Used Languages on GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodsSarno&layout=compact&theme=tokyonight)
+
+---
+
+## 🤓 Applications & languages which I know well
 - Python 
 - C & C++
 - GitHub
