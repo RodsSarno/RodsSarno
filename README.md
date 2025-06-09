@@ -10,6 +10,7 @@ I'm a computer engineering student who enjoys learning about programming, softwa
 - 🎓 Undergraduate in Computer Engineering 
 - 📧 Email: rodrigo.sarno@aln.senaicimatec.edu.br 
 - 🔗 LinkedIn: [linkedin.com/in/rodrigo-sarno](https://br.linkedin.com/in/rodrigo-sarno-0255a3288)
+- Currículo Lattes: [lattes.cnpq.br/rodrigo-sarno](http://lattes.cnpq.br/2610129374081806)
 
 ---
 
