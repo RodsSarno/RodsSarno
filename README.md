@@ -45,15 +45,3 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 <img src="https://img.icons8.com/color/48/000000/windows-10.png" height="35" title="WSL (Linux on Windows)"/>
 
 </div>
-
----
-
-## 📈 GitHub Stats
-
-### 🔝 Most Used Languages (Percentage Based)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodsSarno&layout=compact&theme=github_dark&langs_count=8&hide=jupyter%20notebook)
-
-### 📊 General GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodsSarno&show_icons=true&theme=github_dark)
-
----
