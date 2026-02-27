@@ -7,14 +7,6 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodrigo Sarno&layout=compact" />
-</p>
-
----
-
 ## 📊 Technologies & Tools
 
 <div align="left">
