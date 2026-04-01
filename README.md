@@ -1,13 +1,15 @@
-# Hello there, I'm Rodrigo Sarno! 👋
+# Hello there, I'm Rodrigo Sarno! 👋  
 
 ## 👨‍💻 About Me
 I'm a Computer Engineering student who enjoys learning about programming, software, and hardware.  
-I'm a Python enthusiast due to its simplicity and power, but I'm always exploring new programming languages and technologies.  
-Mathematics is also one of my strengths when problem-solving requires deeper analytical thinking.
+
+I'm a Python enthusiast due to its simplicity and power, but I'm always exploring new programming languages and technologies — including JavaScript for web development and dynamic applications.  
+
+Mathematics is also one of my strengths when problem-solving requires deeper analytical thinking.  
 
 ---
 
-## 📊 Technologies & Tools
+## 📊 Technologies & Tools  
 
 <div align="left">
 
@@ -16,6 +18,7 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
 
