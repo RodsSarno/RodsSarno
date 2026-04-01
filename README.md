@@ -22,10 +22,17 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
 
-### 🗄 Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+### 🤖 Robotics
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg" height="35" title="Gazebo"/>
+<img src="https://raw.githubusercontent.com/ros-visualization/rviz/kinetic-devel/images/splash.png" height="35" title="RViz"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" title="Arduino"/>
+<img src="https://cdn.simpleicons.org/espressif" height="35" title="ESP32"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="35" title="ROS 2"/>
+
+### ⚙ Frameworks & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
 
 ### 📚 Python Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
@@ -33,17 +40,10 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/>
 
-### ⚙ Frameworks & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
-
-### 🤖 Robotics
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="35" title="ROS 2"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" title="Arduino"/>
-<img src="https://cdn.simpleicons.org/espressif" height="35" title="ESP32"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Gazebo_logo.svg" height="35" title="Gazebo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/RViz_logo.png" height="35" title="RViz"/>
+### 🗄 Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
 
 ### 🚀 DevOps & Infrastructure
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
