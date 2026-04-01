@@ -38,6 +38,13 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
 
+### 🤖 Robotics
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="35" title="ROS 2"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" title="Arduino"/>
+<img src="https://cdn.simpleicons.org/espressif" height="35" title="ESP32"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Gazebo_logo.svg" height="35" title="Gazebo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/RViz_logo.png" height="35" title="RViz"/>
+
 ### 🚀 DevOps & Infrastructure
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
