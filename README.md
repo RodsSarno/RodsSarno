@@ -26,12 +26,10 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="35" title="ROS 2"/>
 <img src="https://raw.githubusercontent.com/gazebosim/gazebo-classic/master/media/gazebo_logo.svg" height="35" title="Gazebo"/>
 <img src="https://raw.githubusercontent.com/ros-visualization/rviz/kinetic-devel/images/splash.png" height="35" title="RViz"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" title="Arduino"/>
 <img src="https://cdn.simpleicons.org/espressif" height="35" title="ESP32"/>
 
 ### 📡 Embedded & IoT
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" title="Arduino"/>
-<img src="https://cdn.simpleicons.org/arduino" height="35" title="Arduino IoT Cloud"/>
 <img src="https://cdn.simpleicons.org/espressif" height="35" title="ESP32"/>
 
 ### ⚙ Frameworks & Tools
@@ -47,7 +45,6 @@ Mathematics is also one of my strengths when problem-solving requires deeper ana
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="35" title="SciPy"/>
 
 ### 📒 Notebooks & Data Science
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" title="Jupyter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="35" title="Jupyter Notebook"/>
 
 ### 🛢 Databases
