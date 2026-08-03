@@ -1,6 +1,6 @@
-# Hello there, I'm Rodrigo Sarno! 👋  
+# Hello there, I'm Rodrigo Sarno! 
 
-## 👨‍💻 About Me
+## About Me
 I'm a Computer Engineering student who enjoys learning about programming, software, and hardware.  
 
 I'm a Python enthusiast due to its simplicity and power, but I'm always exploring new programming languages and technologies — including JavaScript for web development and dynamic applications.  
